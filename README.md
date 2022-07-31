@@ -1,3 +1,5 @@
+家計簿をdocker上で動かす
+
 DBのコンテナに入る
 docker-compose exec db bash
 
